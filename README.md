@@ -1,4 +1,4 @@
-# ES_ProjectSubmission
+# Cup And Water Dispenser 
 A finite state machine that governs the function of an automated cup and drink dispenser implemented on Particle, Raspberry Pi, and using IFTTT. In addition, there are various user interfaces implemented on Raspberry Pi.
 
 ## Hardware
